@@ -1,4 +1,4 @@
-<div class="this-div" style="font-size: 40px;text-align: center;">
+<p>
     你好 /
     Hello /
     こんにちは /
