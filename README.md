@@ -1,18 +1,4 @@
-<div class="this-div" style="
-    background-image: -webkit-linear-gradient(
-        left,
-        #147B96,
-        #E6D205 25%,
-        #147B96 50%,
-        #E6D205 75%,
-        #147B96
-    );
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-background-size: 200% 100%;
-    -webkit-animation: maskedAnimation 4s infinite linear;
-    font-size: 40px;
-    text-align: center;">
+<div class="this-div" style="font-size: 40px;text-align: center;">
     你好 /
     Hello /
     こんにちは /
@@ -24,7 +10,7 @@
 <p>
     <img src="https://komarev.com/ghpvc/?username=jckling&color=brightgreen">
     <img src="https://img.shields.io/github/last-commit/jckling/jckling?style=flat">
-    <img src="https://travis-ci.com/jckling/jckling.svg?branch=main">
+    <img src="https://travis-ci.com/jckling/jckling.svg?branch=master">
 </p>
 
 ### 🎉 About Me
