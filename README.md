@@ -1,4 +1,18 @@
-<div class="this-div">
+<div class="this-div" style="
+    background-image: -webkit-linear-gradient(
+        left,
+        #147B96,
+        #E6D205 25%,
+        #147B96 50%,
+        #E6D205 75%,
+        #147B96
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-background-size: 200% 100%;
+    -webkit-animation: maskedAnimation 4s infinite linear;
+    font-size: 40px;
+    text-align: center;">
     你好 /
     Hello /
     こんにちは /
@@ -37,30 +51,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jckling&show_icons=true" />
 </p>
-
-<style>
-.this-div{
-	background-image: -webkit-linear-gradient(
-        left,
-        #147B96,
-        #E6D205 25%,
-        #147B96 50%,
-        #E6D205 75%,
-        #147B96
-    );
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-background-size: 200% 100%;
-    -webkit-animation: maskedAnimation 4s infinite linear;
-    font-size: 40px;
-    text-align: center;
-}
- 
-@keyframes maskedAnimation {
-    0% {
-        background-position: 0 0;
-    }
-	100% {
-	    background-position: -100% 0;
-	}
-</style>
