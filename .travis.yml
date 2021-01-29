@@ -12,5 +12,7 @@ script:
 after_script:
   - git diff
   - git add -A
-  - git commit -m "Update README.md" || exit 0
+  - git commit -m "Update README.md"
+  - git remote add origin "https://${GH_TOKEN}@github.com/jckling/jckling.git"
+  - git remote -v
   - git push origin master
