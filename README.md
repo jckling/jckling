@@ -25,11 +25,11 @@
 ### ✏️ Recent Blog
 
 <!-- blog starts -->
+- [Chrome 插件推荐](https://jckling.github.io/2021/01/27/Other/Chrome%20%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/) (2021-01-27)
+- [Root Cause Analysis of Anomalies of Multitier Services in Public Clouds](https://jckling.github.io/2021/01/23/Other/Root%20Cause%20Analysis%20of%20Anomalies%20of%20Multitier%20Services%20in%20Public%20Clouds/) (2021-01-23)
+- [OpenStack 部署方式总结](https://jckling.github.io/2021/01/20/OpenStack/OpenStack%20%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/) (2021-01-20)
 - [Jupyter Notebook 部署在服务器并使用外网访问](https://jckling.github.io/2021/01/04/ProblemSolve/jupyter-notebook+remote-server/) (2021-01-04)
 - [CentOS 7 安装 Openstack Rocky 版本 - 控制面板（Horizon）](https://jckling.github.io/2020/12/29/OpenStack/CentOS7+OpenStack(Rocky)-8/) (2020-12-29)
-- [CentOS 7 安装 Openstack Rocky 版本 - 创建实例](https://jckling.github.io/2020/12/29/OpenStack/CentOS7+OpenStack(Rocky)-7/) (2020-12-29)
-- [CentOS 7 安装 Openstack Rocky 版本 - 块存储服务（Cinder）](https://jckling.github.io/2020/12/28/OpenStack/CentOS7+OpenStack(Rocky)-6/) (2020-12-28)
-- [CentOS 7 安装 Openstack Rocky 版本 - 对象存储服务（Swift）](https://jckling.github.io/2020/12/28/OpenStack/CentOS7+OpenStack(Rocky)-5/) (2020-12-28)
 <!-- blog ends -->
 
 <br />
