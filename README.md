@@ -16,10 +16,10 @@
 ### 🎉 About Me
 
 - 💻 I’m currently learning Python and OpenStack
-- 📚
-- ✍
+- 📚 I like reading books
+- ✍ Sometimes I write blog
 - ⚡
-- 🎮
+- 🎮 FFXIV & Apex & Steam
 - 🌈
 
 ### ✏️ Recent Blog
