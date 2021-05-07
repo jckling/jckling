@@ -25,11 +25,11 @@
 ### ✏️ Recent Blog
 
 <!-- blog starts -->
+- [FF14 GShade 使用教程](https://jckling.github.io/2021/05/02/FFXIV/FF14-GShade%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/) (2021-05-02)
+- [FF14 TexTools 使用教程](https://jckling.github.io/2021/04/29/FFXIV/FF14-TexTool%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/) (2021-04-29)
+- [FF14 CMTool 使用教程](https://jckling.github.io/2021/04/26/FFXIV/FF14-CMTool%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/) (2021-04-26)
 - [OpenTelemetry 规范阅读](https://jckling.github.io/2021/04/02/OpenTelemetry/OpenTelemetry%20%E8%A7%84%E8%8C%83%E9%98%85%E8%AF%BB/) (2021-04-02)
 - [全链路追踪与 Jaeger 入门](https://jckling.github.io/2021/04/02/OpenTelemetry/%E5%85%A8%E9%93%BE%E8%B7%AF%E8%BF%BD%E8%B8%AA%E4%B8%8E%20Jaeger%20%E5%85%A5%E9%97%A8/) (2021-04-02)
-- [OpenStack 整体介绍](https://jckling.github.io/2021/04/02/OpenStack/OpenStack%20%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D/) (2021-04-02)
-- [Python 单元测试框架](https://jckling.github.io/2021/03/18/Python/Python%20%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6/) (2021-03-18)
-- [OpenStack 单机部署 —— Ansible](https://jckling.github.io/2021/02/14/OpenStack/OpenStack%20%E5%8D%95%E6%9C%BA%E9%83%A8%E7%BD%B2%20%E2%80%94%E2%80%94%20Ansible/) (2021-02-14)
 <!-- blog ends -->
 
 <br />
