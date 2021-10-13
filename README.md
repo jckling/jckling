@@ -61,7 +61,7 @@ syss/:/+oooo++/+/-..:+oossyhyosyyydhosyyhhdymmh++syyyhhhhhhyhhhhhhdhhyhhhdNNNddd
 
 ### 🎉 About Me
 
-- 💻 I’m currently learning Python and OpenStack
+- 💻 I’m currently learning Java deserialization and algorithms
 - 📚 I like reading books
 - ✍ Sometimes I write blog
 - 🎮 FFXIV(Chinese Server)
