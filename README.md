@@ -47,7 +47,7 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
     <img src="https://travis-ci.com/jckling/jckling.svg?branch=master">
 </p>
 
-### 🎉 About Me
+## 🎉 About Me
 
 - 💻 I’m currently learning Java (Soot)
 - 📚 I like reading books
@@ -55,7 +55,7 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
 - 🎮 FFXIV(Chinese Server)
 - 🌈 Nijisanji(ANYCOLOR) | Hololive-EN
 
-### ✏️ Recent Blog
+## ✏️ Recent Blog
 
 <!-- blog starts -->
 - [Typora 破解激活教程](https://jckling.github.io/2021/12/24/Other/Typora%20%E7%A0%B4%E8%A7%A3%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/) (2021-12-24)
@@ -65,7 +65,7 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
 - [LogiQL 入门](https://jckling.github.io/2021/10/26/Other/LogiQL%20%E5%85%A5%E9%97%A8/) (2021-10-26)
 <!-- blog ends -->
 
-### ⚡ Github Stats
+## ⚡ Github Stats
 
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jckling&show_icons=true&theme=tokyonight&hide_border=true" />
