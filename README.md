@@ -50,10 +50,45 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
 ## 🎉 About Me
 
 - 💻 I’m currently learning Java (Soot)
+- 🌈 Interested in python, golang and cloud native
 - 📚 I like reading books
 - ✍ Sometimes I write blog
 - 🎮 FFXIV(Chinese Server)
-- 🌈 Nijisanji(ANYCOLOR) | Hololive-EN
+- 🙋‍♀️ Available for hire
+
+<p float="left">
+    <a href="https://women-in-tech.org/">
+        <img src="https://devstickers.com/assets/img/pro/yj8k.png" width="40">
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+    </a>
+    <a href="https://go.dev/">
+        <img src="https://devstickers.com/assets/img/pro/hyc7.png" width="40">
+    </a>
+    <a href="https://www.linux.org/">
+        <img src="https://devstickers.com/assets/img/pro/y1x8.png" width="40">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/">
+        <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40">
+    </a>
+    <a href="https://www.jetbrains.com/go/">
+        <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="40">
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png" height="40">
+    </a>
+    <a href="https://www.cncf.io/">
+        <img src="https://avatars.githubusercontent.com/u/13455738" height="40">
+    </a>
+</p>
+
 
 ## ✏️ Recent Blog
 
