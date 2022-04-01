@@ -81,9 +81,6 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
     <a href="https://www.jetbrains.com/go/">
         <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="40">
     </a>
-    <a href="https://www.docker.com/">
-        <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png" height="40">
-    </a>
     <a href="https://www.cncf.io/">
         <img src="https://avatars.githubusercontent.com/u/13455738" height="40">
     </a>
