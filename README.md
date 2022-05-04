@@ -49,12 +49,12 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
 
 ## 🎉 About Me
 
-- 💻 I’m currently learning Java (Soot)
-- 🌈 Interested in python, golang and cloud native
+- 💻 I’m currently working on java analysis system
+- 🌈 I'm interested in python, golang and cloud native
 - 📚 I like reading books
 - ✍ Sometimes I write blog
 - 🎮 FFXIV(Chinese Server)
-- 🙋‍♀️ Available for hire
+- 🙋‍♀️ 
 
 <p float="left">
     <a href="https://women-in-tech.org/">
