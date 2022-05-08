@@ -50,11 +50,10 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
 ## 🎉 About Me
 
 - 💻 I’m currently working on java analysis system
-- 🌈 I'm interested in python, golang and cloud native
+- 🌱 I'm interested in cloud native
 - 📚 I like reading books
 - ✍ Sometimes I write blog
-- 🎮 FFXIV(Chinese Server)
-- 🙋‍♀️ 
+- ⚡ 
 
 <p float="left">
     <a href="https://women-in-tech.org/">
