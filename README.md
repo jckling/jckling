@@ -62,6 +62,9 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
     <a href="https://git-scm.com/">
         <img src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
     </a>
+    <a href="https://www.java.com/">
+        <img src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+    </a>
     <a href="https://www.python.org/">
         <img src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
     </a>
@@ -74,11 +77,14 @@ yyy/:/+ssoo//-``:+oyyddoyhhmhsyhdmdNNs/yhdddddddddddmmmdddmMMNmNNNmmmysoooso+sy/
     <a href="https://code.visualstudio.com/">
         <img src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
     </a>
+    <a href="https://www.jetbrains.com/idea/">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40">
+    </a>
     <a href="https://www.jetbrains.com/pycharm/">
-        <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="40">
     </a>
     <a href="https://www.jetbrains.com/go/">
-        <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="40">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.png" width="40">
     </a>
     <a href="https://www.cncf.io/">
         <img src="https://avatars.githubusercontent.com/u/13455738" height="40">
