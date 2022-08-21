@@ -7,11 +7,11 @@
 
 ## 🎉 About Me
 
-- 💻 I’m currently working on java analysis system
+- 💻 I'm currently intern at Amazon
 - 🌱 I'm interested in cloud native
-- 📚 I like reading books
 - ✍ Sometimes I write blog
-- ⚡ 
+- 📚 I like reading books
+- ⚡ I also like hiking and playing video games 
 
 <p float="left">
     <a href="https://women-in-tech.org/">
