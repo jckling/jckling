@@ -7,11 +7,11 @@
 
 ## 🎉 About Me
 
-- 💻 I'm currently intern at Amazon
+- 💻 Currently I'm looking for a job
 - 🌱 I'm interested in cloud native
 - ✍ Sometimes I write blog
 - 📚 I like reading books
-- ⚡ I also like hiking and playing video games 
+- ⚡ 
 
 <p float="left">
     <a href="https://women-in-tech.org/">
