@@ -11,7 +11,7 @@
 - 🌱 I'm interested in cloud native
 - ✍ Sometimes I write blog
 - 📚 I like reading books
-- ⚡ 
+- ⚡ [My Profile](https://jckling.github.io/about/)
 
 <p float="left">
     <a href="https://women-in-tech.org/">
