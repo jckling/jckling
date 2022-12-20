@@ -11,41 +11,56 @@
 - 🌱 I'm interested in cloud native
 - ✍ Sometimes I write blog
 - 📚 I like reading books
-- ⚡ [My Profile](https://jckling.github.io/about/)
+- ⚡ Check out my [resume](https://jckling.github.io/about/)
 
 <p float="left">
-    <a href="https://women-in-tech.org/">
-        <img src="https://devstickers.com/assets/img/pro/yj8k.png" width="40">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-    </a>
     <a href="https://www.java.com/">
-        <img src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
     </a>
     <a href="https://www.python.org/">
-        <img src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
     </a>
     <a href="https://go.dev/">
-        <img src="https://devstickers.com/assets/img/pro/hyc7.png" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" />
+    </a>
+    <a href="https://cplusplus.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
+    </a>
+    <a href="https://reactjs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
     </a>
     <a href="https://www.linux.org/">
-        <img src="https://devstickers.com/assets/img/pro/y1x8.png" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+    </a>
+    <a href="https://kubernetes.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+    </a>
+    <a href="https://redis.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" />
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
     </a>
     <a href="https://www.jetbrains.com/idea/">
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="35" />
     </a>
     <a href="https://www.jetbrains.com/pycharm/">
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="40">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="35" />
     </a>
     <a href="https://www.jetbrains.com/go/">
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.png" width="40">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.png" width="35" />
     </a>
     <a href="https://www.cncf.io/">
-        <img src="https://avatars.githubusercontent.com/u/13455738" height="40">
+        <img src="https://avatars.githubusercontent.com/u/13455738" height="35" />
     </a>
 </p>
 
