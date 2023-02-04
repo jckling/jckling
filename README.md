@@ -7,7 +7,7 @@
 
 ## 🎉 About Me
 
-- 💻 Currently I'm working on my final year's project
+- 💻 Currently I'm working on my graduation thesis
 - 🌱 I'm interested in cloud native
 - ✍ Sometimes I write blog
 - 📚 I like reading books
