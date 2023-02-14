@@ -38,9 +38,17 @@ jobs:
       - name: Update README
         run: python update_readme.py
       
-      - name: Deploy update
+      - name: Check for changes
         run: |
-          git diff
-          git add -A
+          if git diff --exit-code; then
+            echo "::set-env name=changes_exist::false"
+          else
+            echo "::set-env name=changes_exist::true"
+          fi
+
+      - name: Deploy changes
+        if: env.changes_exist == 'true'
+        run: |
+          git add .
           git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
-          git push "https://${GH_TOKEN}@github.com/jckling/jckling.git" HEAD:master
+          git push "https://${GH_TOKEN}@github.com/jckling/jckling.git" master
