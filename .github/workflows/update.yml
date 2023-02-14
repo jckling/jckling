@@ -1,0 +1,45 @@
+name: Update Profile
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '45 23 * * 0'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+  
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Set up timezone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+
+      - name: Echo current time
+        run: timedatectl
+
+      - name: Git config
+        run: |
+          git config --global user.name "jckling"
+          git config --global user.email "jckling@163.com"
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Update README
+        run: python update_readme.py
+      
+      - name: Deploy update
+        run: |
+          git diff
+          git add -A
+          git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
+          git push "https://${GH_TOKEN}@github.com/jckling/jckling.git" HEAD:master
