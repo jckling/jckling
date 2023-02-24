@@ -68,11 +68,11 @@
 ## ✏️ Recent Blog
 
 <!-- blog starts -->
+- [Github Action 自动部署 Hexo 博客](https://jckling.github.io/2023/02/18/Other/Github%20Action%20%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%20Hexo%20%E5%8D%9A%E5%AE%A2/) (2023-02-18)
 - [23 届秋招面试总结](https://jckling.github.io/2022/11/30/Notes/23%20%E5%B1%8A%E7%A7%8B%E6%8B%9B%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/) (2022-11-30)
 - [日区 eshop 无法使用 PayPal](https://jckling.github.io/2022/08/14/Game/NS/%E6%97%A5%E5%8C%BA%20eshop%20%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%20PayPal/) (2022-08-14)
 - [23 届暑期实习面试总结](https://jckling.github.io/2022/05/20/Notes/23%20%E5%B1%8A%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/) (2022-05-20)
 - [Docker Desktop stopped 问题解决](https://jckling.github.io/2022/05/05/Other/Docker%20Desktop%20stopped%20%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/) (2022-05-05)
-- [Java 自动单元测试生成框架](https://jckling.github.io/2022/04/27/Other/Java%20%E8%87%AA%E5%8A%A8%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%94%9F%E6%88%90%E6%A1%86%E6%9E%B6/) (2022-04-27)
 <!-- blog ends -->
 
 ## ⚡ Github Stats
