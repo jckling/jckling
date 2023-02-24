@@ -11,9 +11,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-  
-    env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     steps:
       - uses: actions/checkout@v3
@@ -47,8 +44,8 @@ jobs:
           fi
 
       - name: Deploy changes
-        if: ${{ env.changes_exist == true }}
+        if: ${{ env.changes_exist }}
         run: |
           git add .
           git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
-          git push "https://${GH_TOKEN}@github.com/jckling/jckling.git" master
+          git push
