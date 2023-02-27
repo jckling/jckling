@@ -37,9 +37,9 @@ jobs:
       - name: Check for changes
         run: |
           if git diff --exit-code; then
-            echo "changes_exist=false" >> $GITHUB_ENV
-          else
             echo "changes_exist=true" >> $GITHUB_ENV
+          else
+            echo "changes_exist=false" >> $GITHUB_ENV
           fi
 
       - name: Deploy changes
