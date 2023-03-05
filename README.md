@@ -1,21 +1,40 @@
-# Hello! 👋
+## 👋 Hello! I'm Jck <img align="right" src="https://komarev.com/ghpvc/?username=jckling&color=blue">
 
-<p>
-    <img src="https://komarev.com/ghpvc/?username=jckling&color=blue">
-    <img src="https://travis-ci.com/jckling/jckling.svg?branch=master">
-</p>
-
-## 🎉 About Me
-
-- 💻 Currently I'm working on my graduation thesis
-- 🌱 I'm interested in cloud native
-- ✍ Sometimes I write blog
-- 📚 I like reading books
+- 💻 Currently I'm learning Unity
+- 🌱 I'm interested in cloud native and game development
+- ✍ Sometimes I write blog, the most popular articles are tutorials related to ffxiv
+- 📚 I like reading books, especially books related to psychology
 - ⚡ Check out my [resume](https://jckling.github.io/about/)
 
-<p float="left">
-    <a href="https://www.java.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+**Working with:**
+<p align="left">
+    <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+    </a>
+    <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+    </a>
+    <a href="https://gitlab.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg" width="35" />
+    </a>
+    <a href="https://unity.cn/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" />
+    </a>
+    <a href="https://www.jetbrains.com/rider/">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.png" width="35" />
+    </a>
+</p>
+
+**Interested in:**
+<p align="left">
+    <a href="https://www.markdownguide.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
     </a>
     <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
@@ -23,35 +42,14 @@
     <a href="https://go.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" />
     </a>
-    <a href="https://cplusplus.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
-    </a>
-    <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
-    </a>
-    <a href="https://www.linux.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
-    </a>
     <a href="https://www.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
     </a>
     <a href="https://kubernetes.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
     </a>
-    <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-    </a>
-    <a href="https://redis.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" />
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
-    </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/">
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="35" />
     </a>
     <a href="https://www.jetbrains.com/pycharm/">
         <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="35" />
@@ -61,6 +59,62 @@
     </a>
     <a href="https://www.cncf.io/">
         <img src="https://avatars.githubusercontent.com/u/13455738" height="35" />
+    </a>
+</p>
+
+**Previously used:**
+<p align="left">
+    <a href="https://en.cppreference.com/w/c">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
+    </a>
+    <a href="https://cplusplus.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
+    </a>
+    <a href="https://www.php.net/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" />
+    </a>
+    <a href="https://www.java.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+    </a>
+    <a href="https://reactjs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+    </a>
+    <a href="https://www.linux.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" />
+    </a>
+    <a href="https://www.ansible.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="35" />
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+    </a>
+    <a href="https://redis.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" />
+    </a>
+    <a href="https://neo4j.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="35" />
+    </a>
+    <a href="https://www.mathworks.com/products/matlab.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="35" />
+    </a>
+    <a href="https://visualstudio.microsoft.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35" />
+    </a>
+    <a href="https://www.jetbrains.com/idea/">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="35" />
+    </a>
+</p>
+
+**Plan to learn:**
+<p float="left">
+    <a href="https://www.blender.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35" />
+    </a>
+    <a href="https://unrealengine.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="35" />
     </a>
 </p>
 
@@ -75,6 +129,7 @@
 - [Docker Desktop stopped 问题解决](https://jckling.github.io/2022/05/05/Other/Docker%20Desktop%20stopped%20%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/) (2022-05-05)
 <!-- blog ends -->
 
+
 ## ⚡ Github Stats
 
 <p align="left">
@@ -83,3 +138,4 @@
 </p>
 
 [![Jck's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jckling&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
