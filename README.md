@@ -137,5 +137,5 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jckling&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Jck's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jckling&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jckling&theme=github&hide_border=true)](https://github.com/jckling)
 
