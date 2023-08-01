@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Jck <img align="right" src="https://komarev.com/ghpvc/?username=jckling&color=blue">
 
-- 💻 Currently I'm learning Unity
-- 🌱 I'm interested in cloud native and game development
+- 💻 Currently I'm reading Unity source code
+- 🌱 I'm interested in game development
 - ✍ Sometimes I write blog, the most popular articles are tutorials related to ffxiv
 - 📚 I like reading books, especially books related to psychology
 - ⚡ Check out my [resume](https://jckling.github.io/about/)
@@ -16,6 +16,9 @@
     </a>
     <a href="https://gitlab.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" />
+    </a>
+    <a href="https://cplusplus.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
@@ -67,9 +70,6 @@
     <a href="https://en.cppreference.com/w/c">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
     </a>
-    <a href="https://cplusplus.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
-    </a>
     <a href="https://www.php.net/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" />
     </a>
@@ -118,7 +118,6 @@
     </a>
 </p>
 
-
 ## ✏️ Recent Blog
 
 <!-- blog starts -->
@@ -129,7 +128,6 @@
 - [Docker Desktop stopped 问题解决](https://jckling.github.io/2022/05/05/Other/Docker%20Desktop%20stopped%20%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/) (2022-05-05)
 <!-- blog ends -->
 
-
 ## ⚡ Github Stats
 
 <p align="left">
@@ -138,4 +136,3 @@
 </p>
 
 [![Jck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jckling&theme=github&hide_border=true)](https://github.com/jckling)
-
