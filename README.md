@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Jck <img align="right" src="https://komarev.com/ghpvc/?username=jckling&color=blue">
 
-- 💻 Currently I'm reading Unity source code
+- 💻 Currently I'm learning Unity
 - 🌱 I'm interested in game development
 - ✍ Sometimes I write blog, the most popular articles are tutorials related to ffxiv
 - 📚 I like reading books, especially books related to psychology
@@ -11,33 +11,11 @@
     <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
     </a>
-    <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-    </a>
     <a href="https://gitlab.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" />
     </a>
-    <a href="https://cplusplus.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
-    </a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/">
-        <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg" width="35" />
-    </a>
-    <a href="https://unity.cn/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" />
-    </a>
-    <a href="https://www.jetbrains.com/rider/">
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.png" width="35" />
-    </a>
-</p>
-
-**Interested in:**
-<p align="left">
-    <a href="https://www.markdownguide.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
     </a>
     <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
@@ -48,11 +26,36 @@
     <a href="https://www.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
     </a>
-    <a href="https://kubernetes.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+    </a>
+    <a href="https://unity.cn/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" />
+    </a>
+    <a href="https://www.jetbrains.com/rider/">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.png" width="35" />
     </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
+    </a>
+</p>
+
+**Interested in:**
+<p align="left">
+    <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+    </a>
+    <a href="https://www.markdownguide.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
+    </a>
+    <a href="https://cplusplus.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg" width="35" />
+    </a>
+    <a href="https://kubernetes.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
     </a>
     <a href="https://www.jetbrains.com/pycharm/">
         <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="35" />
