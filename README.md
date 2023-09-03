@@ -8,12 +8,33 @@
 
 **Working with:**
 <p align="left">
+    <a href="https://www.markdownguide.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
+    </a>
     <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
     </a>
     <a href="https://gitlab.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" />
     </a>
+    <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+    </a>
+    <a href="https://unity.cn/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg" width="35" />
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+    </a>
+</p>
+
+<p align="left">
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
     </a>
@@ -23,39 +44,11 @@
     <a href="https://go.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35" />
     </a>
-    <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-    </a>
-    <a href="https://www.mongodb.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
-    </a>
-    <a href="https://unity.cn/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" />
-    </a>
-    <a href="https://www.jetbrains.com/rider/">
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.png" width="35" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
-    </a>
-</p>
-
-**Interested in:**
-<p align="left">
-    <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-    </a>
-    <a href="https://www.markdownguide.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />
-    </a>
     <a href="https://cplusplus.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
     </a>
-    <a href="https://dotnet.microsoft.com/en-us/">
-        <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.jpg" width="35" />
-    </a>
-    <a href="https://kubernetes.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+    <a href="https://www.jetbrains.com/rider/">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.png" width="35" />
     </a>
     <a href="https://www.jetbrains.com/pycharm/">
         <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="35" />
@@ -63,8 +56,8 @@
     <a href="https://www.jetbrains.com/go/">
         <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.png" width="35" />
     </a>
-    <a href="https://www.cncf.io/">
-        <img src="https://avatars.githubusercontent.com/u/13455738" height="35" />
+    <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
     </a>
 </p>
 
@@ -113,6 +106,9 @@
 
 **Plan to learn:**
 <p float="left">
+    <a href="https://kubernetes.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+    </a>
     <a href="https://www.blender.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35" />
     </a>
@@ -135,7 +131,7 @@
 
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jckling&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jckling&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://streak-stats.demolab.com/?user=jckling&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Jck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jckling&theme=github&hide_border=true)](https://github.com/jckling)
+[![Jck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jckling&theme=github&hide_border=true)](https://github.com/jckling)

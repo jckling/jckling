@@ -2,8 +2,6 @@ name: Update Profile
 
 on:
   push:
-    branches:
-      - test
   schedule:
     - cron: '45 23 * * 0'
 
