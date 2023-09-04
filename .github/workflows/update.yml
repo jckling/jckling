@@ -33,7 +33,7 @@ jobs:
         run: python update_readme.py
       
       - name: Check for changes
-      - uses: technote-space/get-diff-action@v6
+        uses: technote-space/get-diff-action@v6
         with:
           FILES: README.md
 
