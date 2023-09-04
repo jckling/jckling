@@ -33,15 +33,12 @@ jobs:
         run: python update_readme.py
       
       - name: Check for changes
-        run: |
-          if git diff --exit-code; then
-            echo "changes_exist=true" >> $GITHUB_ENV
-          else
-            echo "changes_exist=false" >> $GITHUB_ENV
-          fi
+      - uses: technote-space/get-diff-action@v6
+        with:
+          FILES: README.md
 
       - name: Deploy changes
-        if: ${{ env.changes_exist }}
+        if: env.GIT_DIFF && env.MATCHED_FILES
         run: |
           git add .
           git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
