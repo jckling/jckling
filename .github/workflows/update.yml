@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
@@ -32,13 +34,12 @@ jobs:
       - name: Update README
         run: python update_readme.py
       
-      - name: Check for changes
-        uses: technote-space/get-diff-action@v6
-        with:
-          FILES: README.md
-
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+        
       - name: Deploy changes
-        if: env.GIT_DIFF && env.MATCHED_FILES
+        if: contains(steps.changed-files.outputs.modified_files, 'README.md')
         run: |
           git add .
           git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
