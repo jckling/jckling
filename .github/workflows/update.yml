@@ -11,8 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
@@ -33,14 +31,11 @@ jobs:
       
       - name: Update README
         run: python update_readme.py
-      
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v39
-        
+
       - name: Deploy changes
-        if: contains(steps.changed-files.outputs.modified_files, 'README.md')
         run: |
-          git add .
-          git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          if ! git diff --exit-code; then
+            git add .
+            git commit -m "Github Action Automated Update $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
