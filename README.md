@@ -16,7 +16,7 @@
 - [日区 eshop 无法使用 PayPal](https://jckling.github.io/2022/08/14/Game/NS/%E6%97%A5%E5%8C%BA%20eshop%20%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%20PayPal/) (2022-08-14)
 <!-- blog ends -->
 
-## Unity Repo
+## 🎮️ Unity Repo
 
 [![3D RPG](https://github-readme-stats.vercel.app/api/pin/?username=jckling&repo=3DRPG)](https://github.com/jckling/3DRPG)
 [![2D Adventure](https://github-readme-stats.vercel.app/api/pin/?username=jckling&repo=2DAdventure)](https://github.com/jckling/2DAdventure)
@@ -25,8 +25,8 @@
 ## ⚡ Github Stats
 
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jckling&title_color=ffffff&text_color=ffffff&bg_color=35,4158D0,C850C0,FFCC70&icon_color=ffffff&show_icons=true&border_color=ae58a1&card_width=450" />
-    <img width="49.5%" src="https://streak-stats.demolab.com?user=jckling&theme=ambient-gradient&card_width=450" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jckling&title_color=ffffff&text_color=ffffff&bg_color=35,4158D0,C850C0,FFCC70&icon_color=ffffff&show_icons=true&show_border=false&card_width=450" />
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=jckling&theme=ambient-gradient&show_border=false&card_width=450" />
 </p>
 
 [![Jck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jckling&bg_color=ffffff&color=5194f0&line=5194f0&point=6283f4)](https://github.com/jckling)
