@@ -26,7 +26,7 @@
 
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jckling&title_color=ffffff&text_color=ffffff&bg_color=35,4158D0,C850C0,FFCC70&icon_color=ffffff&show_icons=true&show_border=false&card_width=450" />
-    <img width="49.5%" src="https://streak-stats.demolab.com?user=jckling&theme=ambient-gradient&show_border=false&card_width=450" />
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=jckling&theme=ambient-gradient&hide_border=true&card_width=450" />
 </p>
 
 [![Jck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jckling&bg_color=ffffff&color=5194f0&line=5194f0&point=6283f4)](https://github.com/jckling)
