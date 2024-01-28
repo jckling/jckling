@@ -9,11 +9,11 @@
 ## ✏️ Recent Blog
 
 <!-- blog starts -->
+- [搭建本地 Gitea Actions](https://jckling.github.io/2024/01/24/Other/%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%20Gitea%20Actions/) (2024-01-24)
 - [工作总结](https://jckling.github.io/2023/12/12/Notes/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/) (2023-12-12)
 - [FF14 XIVLauncher 启动器与 Dalamud 卫月框架使用教程](https://jckling.github.io/2023/09/02/Game/FFXIV/FF14-XIVLauncher+Dalamud%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/) (2023-09-02)
 - [FF14 ReShade 使用教程](https://jckling.github.io/2023/08/30/Game/FFXIV/FF14-ReShade%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/) (2023-08-30)
 - [Github Action 自动部署 Hexo 博客](https://jckling.github.io/2023/02/18/Other/Github%20Action%20%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%20Hexo%20%E5%8D%9A%E5%AE%A2/) (2023-02-18)
-- [23 届秋招面试总结](https://jckling.github.io/2022/11/30/Notes/23%20%E5%B1%8A%E7%A7%8B%E6%8B%9B%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/) (2022-11-30)
 <!-- blog ends -->
 
 ## 🎮️ Unity Repo
