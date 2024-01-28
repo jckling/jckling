@@ -1,9 +1,9 @@
 ## 👋 Hello! I'm Jck <img align="right" src="https://komarev.com/ghpvc/?username=jckling&color=blue">
 
-- 💻 Currently I'm learning Unity
-- 🌱 I'm interested in game development
+- 💻 Currently I'm working on Unity CI
+- 🌱 I'm interested in game development and photography
 - ✍ Sometimes I write blog, the most popular articles are tutorials related to ffxiv
-- 📚 I like reading books, especially books related to psychology
+- 📚 I like reading books and playing video games
 - ⚡ Check out my [resume](https://jckling.github.io/about/)
 
 ## ✏️ Recent Blog
@@ -18,6 +18,7 @@
 
 ## 🎮️ Unity Repo
 
+[![Farm](https://github-readme-stats.vercel.app/api/pin/?username=jckling&repo=Farm)](https://github.com/jckling/Farm)
 [![3D RPG](https://github-readme-stats.vercel.app/api/pin/?username=jckling&repo=3DRPG)](https://github.com/jckling/3DRPG)
 [![2D Adventure](https://github-readme-stats.vercel.app/api/pin/?username=jckling&repo=2DAdventure)](https://github.com/jckling/2DAdventure)
 [![AngryBots_CSharp](https://github-readme-stats.vercel.app/api/pin/?username=jckling&repo=AngryBots_CSharp)](https://github.com/jckling/AngryBots_CSharp)
