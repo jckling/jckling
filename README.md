@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Jck <img align="right" src="https://komarev.com/ghpvc/?username=jckling&color=blue">
 
-- 💻 Currently I'm working on Unity CI
-- 🌱 I'm interested in game development and photography
+- 💻 Currently I'm working on backend development
+- 🌱 I'm interested in fullstack development and photography
 - ✍ Sometimes I write blog, the most popular articles are tutorials related to ffxiv
 - 📚 I like reading books and playing video games
 - ⚡ Check out my [resume](https://jckling.github.io/about/)
