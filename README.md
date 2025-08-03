@@ -9,11 +9,11 @@
 ## ✏️ Recent Blog
 
 <!-- blog starts -->
+- [Qwen3-Coder 接入 VS Code](https://jckling.github.io/2025/08/03/Notes/qwen+vscode/) (2025-08-03)
 - [本地部署 Open WebUI 使用 DeepSeek API](https://jckling.github.io/2025/07/15/Notes/openwebui+deepseek/) (2025-07-15)
 - [NVIDIA Omniverse Audio 系列工具使用](https://jckling.github.io/2024/02/24/Other/NVIDIA%20Omniverse%20Audio%20%E7%B3%BB%E5%88%97%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/) (2024-02-24)
 - [搭建本地 Gitea Actions](https://jckling.github.io/2024/01/24/Other/%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%20Gitea%20Actions/) (2024-01-24)
 - [工作总结](https://jckling.github.io/2023/12/12/Notes/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/) (2023-12-12)
-- [FF14 XIVLauncher 启动器与 Dalamud 卫月框架使用教程](https://jckling.github.io/2023/09/02/Game/FFXIV/FF14-XIVLauncher+Dalamud%20%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/) (2023-09-02)
 <!-- blog ends -->
 
 ## 🎮️ Unity Repo
