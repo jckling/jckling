@@ -9,11 +9,11 @@
 ## ✏️ Recent Blog
 
 <!-- blog starts -->
-- [文本/图片生成 3D 模型](https://jckling.github.io/2025/09/04/Notes/Image-to-3D/) (2025-09-04)
-- [本地部署 Open WebUI 使用 DeepSeek/Qwen](https://jckling.github.io/2025/08/11/Notes/openwebui+deepseek/) (2025-08-11)
+- [文本生成](https://jckling.github.io/2025/09/10/Notes/Text-Generation/) (2025-09-10)
+- [文本生成图片](https://jckling.github.io/2025/09/10/Notes/Text-to-Image/) (2025-09-10)
+- [文本/图片生成 3D 模型](https://jckling.github.io/2025/08/28/Notes/Image-to-3D/) (2025-08-28)
 - [Qwen3-Coder 接入 VS Code](https://jckling.github.io/2025/08/03/Notes/qwen+vscode/) (2025-08-03)
-- [NVIDIA Omniverse Audio 系列工具使用](https://jckling.github.io/2024/02/24/Other/NVIDIA%20Omniverse%20Audio%20%E7%B3%BB%E5%88%97%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/) (2024-02-24)
-- [搭建本地 Gitea Actions](https://jckling.github.io/2024/01/24/Other/%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%20Gitea%20Actions/) (2024-01-24)
+- [本地部署 Open WebUI 使用 DeepSeek/Qwen](https://jckling.github.io/2025/07/15/Notes/openwebui+deepseek/) (2025-07-15)
 <!-- blog ends -->
 
 ## 🎮️ Unity Repo
