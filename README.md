@@ -9,11 +9,11 @@
 ## ✏️ Recent Blog
 
 <!-- blog starts -->
+- [GitHub Actions 自动签到](https://jckling.github.io/github-action-checkin/) (2026-07-21)
 - [Qwen3-ASR 本地部署](https://jckling.github.io/qwen-asr/) (2026-02-10)
 - [文本生成](https://jckling.github.io/text-generation/) (2025-09-10)
 - [文本生成图片](https://jckling.github.io/text-to-image-generation/) (2025-09-10)
 - [文本/图片生成 3D 模型](https://jckling.github.io/image-to-3d-generation/) (2025-08-28)
-- [Qwen3-Coder 接入 VS Code](https://jckling.github.io/qwen-vscode-integration/) (2025-08-03)
 <!-- blog ends -->
 
 ## ⚡ Github Stats
